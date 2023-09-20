@@ -90,3 +90,4 @@ cd .. (if you are in backend/ path)
 cd spa
 npm run dev
 ```
+# weather
